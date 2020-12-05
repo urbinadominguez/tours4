@@ -1,0 +1,14 @@
+  #logo {
+    font-family: Georgia;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 97px;
+    color: rgb(4, 0, 255);
+ }
+.center{
+  float: center;
+}
+
+body{
+  color: skyblue;
+}
